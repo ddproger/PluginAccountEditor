@@ -1,7 +1,6 @@
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\bin\Debug\PluginAccountEditor.exe.config
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\bin\Debug\PluginAccountEditor.exe
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\bin\Debug\PluginAccountEditor.pdb
-C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\obj\Debug\PluginAccountEditor.csprojResolveAssemblyReference.cache
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\obj\Debug\PluginAccountEditor.Form1.resources
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\obj\Debug\PluginAccountEditor.Properties.Resources.resources
 C:\Users\Gera\Source\Repos\PluginAccountEditor\PluginAccountEditor\obj\Debug\PluginAccountEditor.csproj.GenerateResource.Cache

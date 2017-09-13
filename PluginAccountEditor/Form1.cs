@@ -67,6 +67,7 @@ namespace PluginAccountEditor
                 if(!txtPathResource.Text.Equals(txtPathToNewFile.Text))
                 File.Copy(txtPathResource.Text, txtPathToNewFile.Text,true);
                 writeNewAccount(txtPathToNewFile.Text);
+                MessageBox.Show("Акаунт успешно внедрен");
             }
         }
         private void writeNewAccount(string path)
@@ -195,6 +196,11 @@ namespace PluginAccountEditor
             acc += salt;
             
             return acc;
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
